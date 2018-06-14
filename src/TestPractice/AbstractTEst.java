@@ -28,7 +28,7 @@ package TestPractice;
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
-		
+		System.out.println("Singleton Design Pattern");
 		AbstractTEst a = AbstractTEst.getName();
 		System.out.println(a.l);
 		System.out.println(a.k);
