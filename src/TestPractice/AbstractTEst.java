@@ -7,7 +7,7 @@ package TestPractice;
 		int l;
 	
 		static AbstractTEst abs = null; 
-	 	 
+	 	 //Temp
 		 private AbstractTEst(int i, int j)
 		 {
 			 k=i;
